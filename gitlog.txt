@@ -1,0 +1,18 @@
+commit d017cf4b18016c4a67b4b789efc850aa0826275a
+Merge: e182290 940ca07
+Author: Casey redden <caseyredden@Caseys-MacBook-Air.local>
+Date:   Sat Feb 1 16:02:12 2025 -0700
+
+    git is so frusterating sometimes
+
+commit 940ca07af307cc7a0a68a0d71c46d22c745cb8a3
+Author: Casey redden <caseyredden@Caseys-MacBook-Air.local>
+Date:   Sat Feb 1 15:39:42 2025 -0700
+
+    I finished a rough draft of the project using tailwind, further updates may be needed.
+
+commit e1822908a1e3cf5644ab321872b5f298b506aeb4
+Author: Casey-Redden <kctredden@gmail.com>
+Date:   Sat Feb 1 15:37:31 2025 -0700
+
+    Initial commit
